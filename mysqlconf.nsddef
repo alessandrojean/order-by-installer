@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file was created by NSISDialogDesigner 1.4.1.0
+http://coolsoft.altervista.org/nsisdialogdesigner
+Do not edit manually!
+-->
+<Dialog Name="mysqlconf" Title="Dialog title..." Subtitle="Dialog subtitle...">
+  <Password Name="senha" Location="229, 53" Size="209, 20" TabIndex="0" />
+  <Label Name="Label4" Location="12, 9" Size="426, 23" Text="Por favor, preencha as informações referentes ao MySQL." TabIndex="1" />
+  <FileRequest Name="caminho" Location="12, 93" Size="426, 20" TabIndex="2" />
+  <Label Name="Label3" Location="12, 76" Size="115, 14" Text="Caminho do MySQL:" TabIndex="3" />
+  <Label Name="Label2" Location="229, 36" Size="100, 14" Text="Senha:" TabIndex="4" />
+  <TextBox Name="user" Location="12, 53" Size="209, 20" TabIndex="5" />
+  <Label Name="Label1" Location="12, 36" Size="100, 14" Text="Usuário:" TabIndex="6" />
+</Dialog>
