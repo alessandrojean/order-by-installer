@@ -5,7 +5,7 @@
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
 
-The project consists in an administration software for a school, with the management done by a software, an website and an application.
+The project consists in an administration software for a school, with the management done by a [software](https://github.com/alessandrojean/order-by-desktop), an [website](https://github.com/alessandrojean/order-by-web) and an [application](https://github.com/alessandrojean/order-by-android).
 
 ## Features
 - Install automatically VertrigoServ;
