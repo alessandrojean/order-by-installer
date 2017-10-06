@@ -1,11 +1,18 @@
-# Order By (Installer)
+<p align="center">
+<img src="https://i.imgur.com/oSlvwO6.png"><br/>
+<img src="https://img.shields.io/badge/presented-2015.11.25-green.svg"> <img src="https://img.shields.io/badge/grade-MB-blue.svg"> <img src="https://img.shields.io/badge/part-installer-orange.svg">
+</p>
 
 Term paper for the Information Systems Technician course, finished and presented in November, 2015.
 
 The project consists in an administration software for a school, with the management done by a software, an website and an application.
 
-This repository contains:
-- The installer project.
+## Features
+- Install automatically VertrigoServ;
+- Import the database into your MySQL setup.
+
+## Contents
+- The NSIS installer project.
 
 ## Instructions
 
@@ -13,7 +20,7 @@ Compile the `installer.nsi` file with NSIS, and run.
 
 You'll need to download a copy of the VertrigoServ installer and put it in the same folder you downloaded this repository.
 
-You'll need also compile two `jar` from the [software](https://github.com/alessandrojean/order-by-desktop): one with your currently database login scheme, and another with the same database scheme, but with the password null.
+You'll need also compile two `jar` from the [software](https://github.com/alessandrojean/order-by-desktop): one with your currently database login scheme, and another with the same database scheme, but with the password empty.
 
 ## License
 
